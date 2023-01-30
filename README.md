@@ -1,1 +1,1 @@
-# myRepo
+# mirror loongson jdk binary
